@@ -47,73 +47,7 @@
     font-size: 17px;
     text-align: center;
 }
-.dateOfBirthmainSection{
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-.dateOfBirthmainSection .label1 ,.GenderSection .label1{
-    font-weight: 600;
-}
 
-.dateOfBirthsubSection{
-    display: flex;  
-    margin-right: 4px;
-    margin-top: 5px;
-}
-.daySection, .monthSection, .yearSection{
-    display: flex;
-    justify-content: space-between;
-    flex-basis: auto;
-    border: 2px solid rgb(63, 45, 45);
-    width: 33%;
-    margin-right: 20px;
-}
-.yearSection{
-    margin-right: 10px;
-}
-.daySection select{
-    margin-left: 230px;
-}
-.monthSection select{
-    margin-left: 208px;
-}
-.yearSection select{
-    margin-left: 192px;
-
-}
-
-/* Date Of Birth Required Field  */
-.dateofBirthRequired{
-    border: 2px solid red;
-    padding: 5px;
-    border-radius: 5px;
-    width: 50%;
-    margin: 15px auto;
-    color: red;
-    font-size: 17px;
-    text-align: center;
-}
-
-
-/* Gender Section CSS  */
-.GenderSection{
-    margin-top: 20px;
-      /* display: flex; */
-}
-.genderMain{
-    display: flex;
-    margin-top: 15px;
-}
-.genderSubSection{
-    padding: 5px;
-}
-.GenderSection .genderSubSection{
-    display: flex;
-    justify-content: space-between;
-    width: 33%;
-    border: 1px solid black;
-    margin-right: 20px;
-}
 
 .info{
     text-align: center;
