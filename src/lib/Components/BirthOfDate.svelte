@@ -56,7 +56,8 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
-.dateOfBirthmainSection .label1 ,.GenderSection .label1{
+.dateOfBirthmainSection .label1 ,
+.GenderSection .label1{
     font-weight: 600;
 }
 
